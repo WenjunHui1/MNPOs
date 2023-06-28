@@ -4,7 +4,7 @@ Weakly supervised object localization achieves the localization task using image
 
 # The proposed MNPOs method
 
-![MNPO_structure](https://github.com/WenjunHui1/MNPOs/assets/103172926/eded146f-3b31-49ee-bd9c-414aaca4280d)
+![MNPO_structure](https://github.com/WenjunHui1/MNPOs/assets/103172926/560e3001-f823-4498-b50e-6696612ccdbd)
 
 # Trained model
 
@@ -21,10 +21,7 @@ Weakly supervised object localization achieves the localization task using image
 
 # Localization
 ![CAM_MNPO_comparsion_ilsvrc](https://github.com/WenjunHui1/MNPOs/assets/103172926/f6bb2d75-e116-4b81-9e09-fb186b25b2ab)
-![CAM_MNPO_comparsion_cub](https://github.com/WenjunHui1/MNPOs/assets/103172926/393dc697-49d3-476e-82c3-c75d3edb9def)
 ![MNPO_MNPOs](https://github.com/WenjunHui1/MNPOs/assets/103172926/affb93a6-00ce-4a86-b656-97310587d141)
-
-
 
 # Test
   
