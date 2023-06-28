@@ -5,7 +5,7 @@ Weakly supervised object localization achieves the localization task using image
 
 # The proposed MNPOs method
 
-[./fig/MNPO_structure.pdf]
+< img src="./fig/MNPO_structure.pdf" width="100%" alt="overall pipeline">
 
 # Trained model
 
