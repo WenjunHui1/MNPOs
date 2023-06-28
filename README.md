@@ -5,7 +5,7 @@ Weakly supervised object localization achieves the localization task using image
 
 # The proposed GRCAM method
 
-![image](https://user-images.githubusercontent.com/103172926/164704790-0417d6ab-8f07-41b2-b243-9f02dc5a30f5.png)
+[MNPO_structure.pdf](https://github.com/WenjunHui1/MNPOs/files/11891227/MNPO_structure.pdf)
 
 # Trained model
 
@@ -24,8 +24,8 @@ Weakly supervised object localization achieves the localization task using image
 
 # Localization
   
-![image](https://user-images.githubusercontent.com/103172926/164706678-8f3be781-9fca-4951-8dd6-2ec31cd5ab2b.png)
-![image](https://user-images.githubusercontent.com/103172926/164706755-4c887dcf-9df0-4619-b86d-6d331eefe203.png)
+[CAM_MNPO_comparsion_ilsvrc.pdf](https://github.com/WenjunHui1/MNPOs/files/11891228/CAM_MNPO_comparsion_ilsvrc.pdf)
+[MNPO_MNPOs.pdf](https://github.com/WenjunHui1/MNPOs/files/11891229/MNPO_MNPOs.pdf)
 
 # Test
   
